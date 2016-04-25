@@ -1,0 +1,10 @@
+{
+  "name": "sending-info",
+  "version": "0.0.1",
+  "description": "Sending data from iphone's accelerometer",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5",
+    "ipware" : "^0.0.2"
+  }
+}
